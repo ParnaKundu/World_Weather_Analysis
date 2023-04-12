@@ -19,6 +19,6 @@ The purpose of this project is to help customers plan their perfect vacation. Th
 
 6. From the above map, four cities are selected that a customer may want to visit.
 
-7. Using 'gmaps', a directions layer map is created to map out the travel plan for the four cities as shown in [Travel Map](https://github.com/ParnaKundu/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png).
+7. Using 'gmaps', a directions layer map is created to map out the travel plan for the four cities as shown in ![Travel Map](Vacation_Itinerary/WeatherPy_travel_map.png).
 
-8. A new marker layer map of the four cities on the travel route is created to present to the customer as a [Vacation Itinerary](https://github.com/ParnaKundu/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png).
+8. A new marker layer map of the four cities on the travel route is created to present to the customer as a ![Vacation Itinerary](Vacation_Itinerary/WeatherPy_travel_map_markers.png).
