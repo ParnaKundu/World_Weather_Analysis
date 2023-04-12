@@ -15,7 +15,7 @@ The purpose of this project is to help customers plan their perfect vacation. Th
 
 4. Based on the preference, potential travel destinations and nearby hotels are selected using the 'GoogleMaps' API.
 
-5. A marker layer map is created with 'gmaps' that will have pop-up markers for each city on the map. This is the [Vacation Search map](https://github.com/ParnaKundu/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png).
+5. A marker layer map is created with 'gmaps' that will have pop-up markers for each city on the map. This is the ![Vacation Search map](Vacation_Search/WeatherPy_vacation_map.png).
 
 6. From the above map, four cities are selected that a customer may want to visit.
 
